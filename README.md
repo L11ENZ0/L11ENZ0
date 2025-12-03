@@ -35,25 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats-l11enz0s-projects.vercel.app/api?username=L11ENZO&show_icons=true&theme=default&hide_border=false" width="60%" />
-
-<img src="https://github-readme-stats-l11enz0s-projects.vercel.app/api?/top-langs/?username=L11ENZO&layout=compact&hide_border=false" width="45%" />
-
-</div>
-
----
-
-## 🔥 Streak Activity
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=l11enz0&theme=default&hide_border=false" width="60%" />
-
-</div>
-
----
 
 ## 🏔️ Quote
 > *Balance strength and calm, challenge and peace.*
