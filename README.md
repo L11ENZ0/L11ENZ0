@@ -38,11 +38,9 @@
 ## 📈 GitHub Stats
 <div align="center">
 
-<!-- 核心数据卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=L11ENZ0&show_icons=true&theme=default&hide_border=false" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=l11enz0&show_icons=true&theme=default&hide_border=false" width="60%" />
 
-<!-- 语言比例卡片 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L11ENZ0&layout=compact&hide_border=false" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l11enz0&layout=compact&hide_border=false" width="45%" />
 
 </div>
 
@@ -51,8 +49,7 @@
 ## 🔥 Streak Activity
 <div align="center">
 
-<!-- 连续热力图 -->
-<img src="https://streak-stats.demolab.com/?user=L11ENZ0&theme=default&hide_border=false" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=l11enz0&theme=default&hide_border=false" width="60%" />
 
 </div>
 
