@@ -61,7 +61,7 @@
 ---
 
 ## 📬 Contact
-- 📧 Email: *(你想加的话我随时帮你填)*  
+- 📧 Email:  
 - 🌱 Keep exploring nature, learning, and coding.
 
 ---
